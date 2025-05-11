@@ -1,6 +1,6 @@
 from MenuHandler import MenuHandler
 
-API_KEY = "30d4741c779ba94c470ca1f63045390a"
+API_KEY = " your openweathermap api key here"
 
 def main():
     menu = MenuHandler(API_KEY)
